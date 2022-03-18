@@ -2,4 +2,4 @@
 
 ![alt text](https://ciccc.ca/wp-content/themes/jupiter-child/pics/updated/front-end-development.svg)
 
-test
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ageez72&theme=dark&show_icons=true)
