@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 
 <div align="center">
-  <img src ="https://ciccc.ca/wp-content/themes/jupiter-child/pics/updated/front-end-development.svg" />
+  <img src ="./banner.svg" />
   
 </div>
 
