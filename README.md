@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/16KEpw3qSD7NYUUOMKkEsUluQ-RuZlYsU/view?usp=sharing)**
+- 🙋‍♂️ All about me is at **[My CV](https://drive.google.com/file/d/16KEpw3qSD7NYUUOMKkEsUluQ-RuZlYsU/view?usp=sharing)**
 
 <!-- - 🔭 I’m currently working on `Something Intresting`. -->
 
