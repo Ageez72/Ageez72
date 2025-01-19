@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My CV]([https://docs.google.com/document/d/1VF8i1uKfkhL4R1XNAZmlkUIBzm43DPzlfthjazkkrbQ/edit?usp=sharing])**
+- 🙋‍♂️ All about me is at  <a href="[https://www.linkedin.com/in/mohamedageez/](https://docs.google.com/document/d/1VF8i1uKfkhL4R1XNAZmlkUIBzm43DPzlfthjazkkrbQ/edit?usp=sharing)" target="_blank">My CV</a>
 
 <!-- - 🔭 I’m currently working on `Something Intresting`. -->
 
